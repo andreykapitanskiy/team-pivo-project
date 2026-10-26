@@ -43,7 +43,8 @@
 ## 6. Создание Pull Request и процесс ревью
 Слияние личных веток с основной веткой `main` производилось через процедуру Pull Request:
 
-![Процесс Pull Request](assets/pull_request.png)
+![Все запросы](assets/all_pull_request.png)
+![Запросы добавленные в main](assets/closed_pull_requests.png)
 
 ---
 
